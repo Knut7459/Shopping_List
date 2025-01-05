@@ -30,6 +30,7 @@ ALLOWED_HOSTS = [
     '192.168.178.42',
     '192.168.178.103',
     'localhost',
+    'knut7459.pythonanywhere.com',
 ]
 
 # Application definition
